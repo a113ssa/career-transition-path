@@ -6,3 +6,4 @@
 
 ## Articles
 - https://www.ibm.com/topics/what-is-a-digital-twin
+- https://www.siemens.com/global/en/company/digital-transformation/industrial-metaverse/industrial-metaverse-glossary.html
