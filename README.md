@@ -11,6 +11,9 @@
 **OpenUSD**:
 - https://remedy-entertainment.github.io/USDBook/
 
+**Azure Digital Twin**
+- https://learn.microsoft.com/en-us/azure/digital-twins/
+
 ## Articles
 - https://www.ibm.com/topics/what-is-a-digital-twin
 - https://www.siemens.com/global/en/company/digital-transformation/industrial-metaverse/industrial-metaverse-glossary.html
